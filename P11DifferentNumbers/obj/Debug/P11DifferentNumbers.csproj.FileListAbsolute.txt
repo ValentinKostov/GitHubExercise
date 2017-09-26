@@ -1,0 +1,6 @@
+C:\Users\User\documents\visual studio 2015\Projects\Startup01\P11DifferentNumbers\bin\Debug\P11DifferentNumbers.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Startup01\P11DifferentNumbers\bin\Debug\P11DifferentNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\Startup01\P11DifferentNumbers\bin\Debug\P11DifferentNumbers.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Startup01\P11DifferentNumbers\obj\Debug\P11DifferentNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Startup01\P11DifferentNumbers\obj\Debug\P11DifferentNumbers.exe
+C:\Users\User\documents\visual studio 2015\Projects\Startup01\P11DifferentNumbers\obj\Debug\P11DifferentNumbers.pdb
